@@ -1,0 +1,7 @@
+#Installation notwendig!!!
+alias cat='batcat --color=always'
+alias df='duf'
+#schon integriert
+alias ip='ip -color'
+alias ipa='ip -color -br a'
+
