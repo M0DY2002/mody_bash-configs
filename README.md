@@ -1,8 +1,16 @@
 # mody_bash-configs
 _my bash-configs (default installs, my prompt and aliases)_
 
-## Aliase
+## Installations
+### via apt install
+### via github clone ("/usr/bin")
+
+
+## Aliases
 ### system commands
-### additional commands via apt install
-### additional commands via github clone
+### additional commands
+
+## Prompt
+
+## Configuration bashrc
 
