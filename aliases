@@ -4,4 +4,4 @@ alias df='duf'
 #schon integriert
 alias ip='ip -color'
 alias ipa='ip -color -br a'
-
+alias btop='btop --utf-force --tty_off'
