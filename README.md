@@ -10,7 +10,7 @@ apt update && apt upgrade -y && apt autoremove -y && apt clean -y
 ### via apt install
 ```
 #defaults
-apt install sudo htop curl git neofetch mc -y
+apt install sudo btop htop curl git neofetch mc -y
 #additional tools
 apt install batcat duf tldr fzf Ok-y
 apt install catimg -y
