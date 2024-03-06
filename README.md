@@ -12,7 +12,7 @@ apt clean -y && apt update -y && apt dist-upgrade -y && apt autoremove --purge -
 #defaults
 apt install sudo btop htop curl git neofetch mc -y
 #additional tools
-apt install batcat duf tldr fzf Ok-y
+apt install batcat duf tldr fzf -y
 apt install catimg -y
 ```
 ### via github clone ("/usr/bin")
