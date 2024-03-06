@@ -4,11 +4,11 @@ for Proxmox LXC-Containers (mostly Debian 11/12)_
 
 ## Installations
 ### updates & upgrades
-```
+```bash
 apt clean -y && apt update -y && apt dist-upgrade -y && apt autoremove --purge -y
 ```
 ### via apt install
-```
+```bash
 #my defaults
 apt install sudo btop htop curl git neofetch mc zip -y
 #additional tools
