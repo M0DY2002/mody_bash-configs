@@ -21,6 +21,7 @@ apt install catimg -y
 
 ## Aliases
 ### system commands
+[Aliases](aliases)
 ### additional commands
 
 ## Prompt
