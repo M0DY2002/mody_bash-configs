@@ -1,7 +1,8 @@
-#Installation notwendig!!!
-alias cat='batcat --color=always'
-alias df='duf'
 #schon integriert
-alias ip='ip -color'
+alias  ip='ip -color'
 alias ipa='ip -color -br a'
+
+#Installation notwendig!!!
 alias btop='btop --utf-force --tty_off'
+alias  cat='batcat --color=always'
+alias   df='duf'
