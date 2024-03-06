@@ -5,7 +5,7 @@ for Proxmox LXC-Containers (mostly Debian 11/12)_
 ## Installations
 ### updates & upgrades
 ```
-apt update && apt upgrade -y && apt autoremove -y && apt clean -y
+apt update && apt upgrade -y && apt autoremove --purge -y && apt clean -y
 ```
 ### via apt install
 ```
