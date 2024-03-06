@@ -27,7 +27,7 @@ apt install catimg -y
 ## Prompt
 
 ## Configuration bashrc
-```
+```bash
 # include .bashrc if it exists
 if [ -f $HOME/.bashrc_aliases ]; then
     . $HOME/.bashrc_aliases
