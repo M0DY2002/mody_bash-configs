@@ -20,9 +20,9 @@ apt install catimg -y
 - diff-so-fancy
 
 ## Aliases
-### system commands
+### system commands extended/modified
 [Aliases](aliases)
-### additional commands
+### installed commands
 
 ## Prompt
 
