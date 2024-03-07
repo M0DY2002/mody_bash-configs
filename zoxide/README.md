@@ -1,7 +1,7 @@
 # :hammer_and_wrench: `zoxide`
 
-| **Link:** | :octocat: [github/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) |
-| --- | --- |
+| **Link:** | :octocat: [github/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | :open_book: [Wiki](https://github.com/ajeetdsouza/zoxide/wiki) |
+| --- | --- | --- |
 
 >_`zoxide` is a smarter cd command, inspired by z and autojump._
 >
