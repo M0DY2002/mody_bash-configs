@@ -1,12 +1,12 @@
 # :desktop_computer: `mody_bash-configs`
->_my bash-configs (my default installs, personalised prompt and aliases)  
-for Proxmox LXC-Containers (mostly Debian 11/12)_
-
-___
 
 | **Topics:** | :floppy_disk: [Installations](README.md#package-installations) | :arrow_right: [Aliases](README.md#arrow_right-aliases) | :tv: [Prompt](README.md#tv-prompt) | 
 | --- | --- | --- | --- |
+
+>_my bash-configs (my default installs, personalised prompt and aliases)  
+for Proxmox LXC-Containers (mostly Debian 11/12)_
 ___
+
 ## :floppy_disk: `Installations`
 ### :mag: updates & upgrades
 ```bash
