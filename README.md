@@ -1,13 +1,15 @@
-# mody_bash-configs
+# :desktop_computer: mody_bash-configs
 _my bash-configs (my default installs, personalised prompt and aliases) 
 for Proxmox LXC-Containers (mostly Debian 11/12)_
 
-## Installations
-### updates & upgrades
+___
+
+## :package: Installations
+### :mag: updates & upgrades
 ```bash
 apt clean -y && apt update -y && apt dist-upgrade -y && apt autoremove --purge -y
 ```
-### via apt install
+### :earth_africa: via apt install
 ```bash
 #my defaults
 apt install sudo btop htop curl git neofetch mc zip -y
@@ -15,18 +17,21 @@ apt install sudo btop htop curl git neofetch mc zip -y
 apt install batcat duf tldr fzf -y
 apt install catimg -y
 ```
-### via github clone ("/usr/bin")
+### :octocat: via github clone ("/usr/bin")
 - zoxide (z)
 - diff-so-fancy
 
-## Aliases
-### system commands extended/modified
+___
+
+## :arrow_right: Aliases
+### :robot: system commands extended/modified
 [Aliases](aliases)
-### installed commands
+### :gear: installed commands
+..to-do...
+___
 
-## Prompt
-
-## Configuration bashrc
+## :tv: Prompt
+## :keyboard: Configuration bashrc
 ```bash
 # include .bashrc if it exists
 if [ -f $HOME/.bashrc_aliases ]; then
