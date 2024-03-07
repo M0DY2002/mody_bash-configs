@@ -4,6 +4,9 @@ for Proxmox LXC-Containers (mostly Debian 11/12)_
 
 ___
 
+| **Topics:** | :package: [Installations](mody_bash-configs#package-installations) | :arrow_right: [Aliases](mody_bash-configs#arrow_right-aliases) | :tv: [Prompt](mody_bash-configs#tv-prompt) | 
+| --- | --- | --- | --- |
+___
 ## :package: Installations
 ### :mag: updates & upgrades
 ```bash
