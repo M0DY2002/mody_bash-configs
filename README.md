@@ -29,7 +29,7 @@ ___
 ## :arrow_right: Aliases
 ### :robot: system commands extended/modified
 [Aliases](aliases)
-### :gear: installed commands
+### :gear: additionally installed tools
 ..to-do...
 ___
 
