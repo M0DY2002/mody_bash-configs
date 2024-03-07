@@ -1,5 +1,5 @@
 # :desktop_computer: mody_bash-configs
-_my bash-configs (my default installs, personalised prompt and aliases) 
+_my bash-configs (my default installs, personalised prompt and aliases)  
 for Proxmox LXC-Containers (mostly Debian 11/12)_
 
 ___
