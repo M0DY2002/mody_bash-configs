@@ -3,10 +3,10 @@
 | **Link:** | :octocat: [github/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | :open_book: [Wiki](https://github.com/ajeetdsouza/zoxide/wiki) |
 | --- | --- | --- |
 
->_`zoxide` is a smarter cd command, inspired by z and autojump._
+>_**`zoxide`** is a smarter cd command, inspired by z and autojump._
 >
 >_It remembers which directories you use most frequently, so you can "jump" to them in just a few keystrokes._  
->_`zoxide` works on all major shells._
+>_**`zoxide`** works on all major shells._
 ___
 
 ## :octocat: GitHub
