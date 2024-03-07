@@ -1,7 +1,7 @@
 # :hammer_and_wrench: `diff-so-fancy`
 
-| **Link:** | :octocat: [github/so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) |
-| --- | --- |
+| **Link:** | :octocat: [github/so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | :open_book: [Wiki](https://github.com/so-fancy/diff-so-fancy/wiki) |
+| --- | --- | --- |
 
 >_`diff-so-fancy` strives to make your diffs human readable instead of machine readable._
 >
