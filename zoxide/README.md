@@ -9,10 +9,10 @@
 >_Zoxide works on all major shells._
 ___
 
-## :octocat: github
+## :octocat: GitHub
 ```bash
 git clone ..to-do...
 ```
 - - -
-## :whale2: install
+## :keyboard: Configuration bashrc
 _to-do -> docker-compose_
