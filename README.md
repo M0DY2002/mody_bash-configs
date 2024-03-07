@@ -7,7 +7,7 @@ ___
 | **Topics:** | :floppy_disk: [Installations](README.md#package-installations) | :arrow_right: [Aliases](README.md#arrow_right-aliases) | :tv: [Prompt](README.md#tv-prompt) | 
 | --- | --- | --- | --- |
 ___
-## :floppy_disk: Installations
+## :floppy_disk: `Installations`
 ### :mag: updates & upgrades
 ```bash
 apt clean -y && apt update -qq -y && apt dist-upgrade -qq -y && apt autoremove --purge -qq -y
@@ -26,14 +26,14 @@ apt install catimg -y
 
 ___
 
-## :arrow_right: Aliases
+## :arrow_right: `Aliases`
 ### :robot: system commands extended/modified
 [Aliases](aliases)
 ### :gear: additionally installed tools
 ..to-do...
 ___
 
-## :tv: Prompt
+## :tv: `Prompt`
 ## :keyboard: Configuration bashrc
 ```bash
 # include .bashrc if it exists
