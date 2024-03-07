@@ -4,10 +4,10 @@ for Proxmox LXC-Containers (mostly Debian 11/12)_
 
 ___
 
-| **Topics:** | :package: [Installations](README.md#package-installations) | :arrow_right: [Aliases](README.md#arrow_right-aliases) | :tv: [Prompt](README.md#tv-prompt) | 
+| **Topics:** | :floppy_disk: [Installations](README.md#package-installations) | :arrow_right: [Aliases](README.md#arrow_right-aliases) | :tv: [Prompt](README.md#tv-prompt) | 
 | --- | --- | --- | --- |
 ___
-## :package: Installations
+## :floppy_disk: Installations
 ### :mag: updates & upgrades
 ```bash
 apt clean -y && apt update -qq -y && apt dist-upgrade -qq -y && apt autoremove --purge -qq -y
