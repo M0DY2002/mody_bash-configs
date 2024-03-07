@@ -10,7 +10,7 @@ ___
 ## :package: Installations
 ### :mag: updates & upgrades
 ```bash
-apt clean -y && apt update -y && apt dist-upgrade -y && apt autoremove --purge -y
+apt clean -y && apt update -qq -y && apt dist-upgrade -qq -y && apt autoremove --purge -qq -y
 ```
 ### :earth_africa: via apt install
 ```bash
