@@ -11,7 +11,7 @@ ___
 
 ## :octocat: github
 ```bash
-..to-do...
+git clone ..to-do...
 ```
 - - -
 ## :whale2: install
